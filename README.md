@@ -3,4 +3,4 @@ Webpage for class projects.
 
 
 # Welcome!
-**This is italic**
+*This is italic*
